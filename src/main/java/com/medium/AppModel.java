@@ -14,9 +14,7 @@ import java.io.Serializable;
 @Setter
 public class AppModel implements Serializable {
     private static final long serialVersionUID = 876688928410084519L;
-
     @Id
     private long id;
-
     private String message;
 }

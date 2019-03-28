@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Medium2" />
         <module name="medium" />
+        <module name="Medium2" />
       </profile>
     </annotationProcessing>
   </component>
